@@ -1,2 +1,14 @@
 # greenatom_caselab-screening_task
-This repository contains the solution to the screening task for CaseLabJava pre-internship at the Greenatom company
+Этот репозиторий содержит решение отборочного задания для стажировки CaseLabJava в компании Greenatom.
+
+## Задача 1
+
+[Ссылка на решение задачи 1](./task1/)
+
+## Задача 2
+
+[Ссылка на решение задачи 2](./task2/)
+
+## Задача 3
+
+[Ссылка на решение задачи 3](./task3/)
